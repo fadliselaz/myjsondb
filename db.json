@@ -15,6 +15,11 @@
             "username" : "dedi",
             "email" : "dedi@gmail.com",
             "phone" : "13423423423"
+        },
+        {
+            "username" : "agil",
+            "email" : "agil@gmail.com",
+            "phone" : "13423423423"
         }
     ]
     
